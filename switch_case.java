@@ -12,7 +12,7 @@ public class switch_case {
         int num3 = sc.nextInt();
         int num4 = sc.nextInt();
         int num5 = sc.nextInt();
-
+        
         System.out.println("-----------MENU----------- ");
         System.out.println("1 Smallest\n2 Largest\n3 Sum\n4 Average ");
         
