@@ -28,6 +28,8 @@ class student {
 
         System.out.println("Enter the roll number of student: ");
         rollNumber = sc.nextInt();
+
+        sc.close();
     }
 
     // Method to display data
@@ -44,4 +46,5 @@ class student {
         obj.input_data();
         obj.display_data();
     }
+    
 }
