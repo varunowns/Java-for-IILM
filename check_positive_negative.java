@@ -11,5 +11,7 @@ public class check_positive_negative {
         } else{
             System.out.println("Number is negative.");
         }
+        sc.close();
     }
+    
 }
