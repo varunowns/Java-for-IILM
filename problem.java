@@ -54,5 +54,6 @@ public class problem{
 
         int result = binary(nums, target);
         System.out.println("Index : " + result);
+        sc.close();
     }
 }
